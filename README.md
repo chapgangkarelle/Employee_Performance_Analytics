@@ -39,7 +39,7 @@ Le projet contient plusieurs visualisations pertinentes :
 - Salaire mensuel selon le score de performance
 
 ## 🛠️ Technologies
-Python – Pandas, Seaborn, Matplotlib, SciPy, scikit-posthocs
+Python – Pandas, Seaborn, Matplotlib
 
 ## ▶️ Exécution
 1. Ouvrir le fichier `analyse.ipynb` sur Jupyter ou Google Colab
