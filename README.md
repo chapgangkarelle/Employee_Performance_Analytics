@@ -41,7 +41,7 @@ Le projet contient plusieurs visualisations pertinentes :
 Python – Pandas, Seaborn, Matplotlib
 
 ## 📂 Rapport interactif
-📎 Voir le rapport visuel en ligne (PowerPoint dynamique) → [[Lien à insérer ici](https://analyse-des-performances-yk8u1go.gamma.site/)]
+📎 Voir le rapport visuel en ligne (PowerPoint dynamique) → [Rapport d'analyse ](https://analyse-des-performances-yk8u1go.gamma.site/)]
 
 ## ▶️ Exécution
 1. Ouvrir le fichier `analyse.ipynb` sur Jupyter ou Google Colab
