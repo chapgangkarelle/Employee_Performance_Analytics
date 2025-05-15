@@ -1,8 +1,7 @@
 # Analyse des Performances Employés & Satisfaction au Travail
 
 ## 🎯 Objectif
-Évaluer les écarts de performance et de satisfaction entre les départements afin d’orienter des décisions RH basées sur des données concrètes.
-
+Évaluer les écarts de performance et de satisfaction entre départements pour orienter des décisions RH plus justes et efficaces.
 ## 🧠 Problématique
 L’entreprise a constaté des différences de performance entre les départements. Cette étude vise à confirmer l'existence de ces écarts et à comprendre les facteurs qui influencent la performance et la satisfaction des employés.
 
@@ -40,6 +39,9 @@ Le projet contient plusieurs visualisations pertinentes :
 
 ## 🛠️ Technologies
 Python – Pandas, Seaborn, Matplotlib
+
+## 📂 Rapport interactif
+📎 Voir le rapport visuel en ligne (PowerPoint dynamique) → [[Lien à insérer ici](https://analyse-des-performances-yk8u1go.gamma.site/)]
 
 ## ▶️ Exécution
 1. Ouvrir le fichier `analyse.ipynb` sur Jupyter ou Google Colab
